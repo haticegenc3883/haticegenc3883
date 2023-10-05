@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @haticegenc3883
 - 👀 I’m interested in software,astronomy,rockets,space enthusiast and aviation enthusiast
-- 🌱 I’m currently learning web programmig ,MSSQL , C# and C++
+- I used php,ionic framework and angular in my projects.
+- 🌱 I’m currently learning Mobile programming & java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hat.gen.3883@gmail.com
 
